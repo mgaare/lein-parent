@@ -1,4 +1,4 @@
-(ns lein-parent.plugin
+(ns lein-parent-mg.plugin
   (:require [leiningen.parent :as parent]
             [leiningen.core.project :as project]))
 
